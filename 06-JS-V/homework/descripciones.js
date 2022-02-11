@@ -1,2 +1,2 @@
-Prototype: es una propiedad que despues podemos establecer en métodos.
+Prototype: es una propiedad que despues podemos establecer en métodos. Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
 Constructors (de Clases): El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
